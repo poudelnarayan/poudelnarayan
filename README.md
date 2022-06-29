@@ -8,10 +8,10 @@
 - People can understand many different languages, and so can computers.                                                                                                 
   Here are few that I and  computers have in common :smile:
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poudelnarayan&theme=dark&show_icons=true&layout=compact"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poudelnarayan&show_icons=true&layout=compact"/><br>
   
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poudelnarayan&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poudelnarayan"/>
   
  
  
