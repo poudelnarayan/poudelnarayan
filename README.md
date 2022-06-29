@@ -1,11 +1,17 @@
-<div id="header" align="center">
+<div id="header" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web and Apps
 - People can understand many different languages, and so can computers.                                                                                                 
-            Here are  few that I and the computer have in common :smile:
+  Here are few that I and  computers have in common :smile:
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poudelnarayan&theme=dark&show_icons=true&layout=compact"/><br>
+  
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poudelnarayan&theme=dark"/>
   
  
  
